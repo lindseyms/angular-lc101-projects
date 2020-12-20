@@ -1,0 +1,14 @@
+h3{
+    color: mediumvioletred;
+    font-family: cursive;
+}
+
+body{
+    border: 30px;
+    border-style: dotted;
+    border-color: olivedrab;
+
+    text-align: center;
+    margin: 50px ;
+
+}
